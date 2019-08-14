@@ -1,4 +1,5 @@
-[![Build Status](https://dev.azure.com/kavenka/terraform-azure-scalesets/_apis/build/status/karthikvenkat17.terraform-azurerm-scalesets?branchName=master)](https://dev.azure.com/kavenka/terraform-azure-scalesets/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/kavenka/terraform-azurerm-vmss/_apis/build/status/karthikvenkat17.terraform-azurerm-vmss?branchName=master)](https://dev.azure.com/kavenka/terraform-azurerm-vmss/_build/latest?definitionId=2&branchName=master)
+
 # terraform-azurerm-scalesets
 ## Terraform Azure RM Virtual Machine ScaleSets module
 
